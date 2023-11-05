@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namuUzduotisUnitTestai", "n
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seleniumTestsWithoutPOM", "seleniumTestsWithoutPOM\seleniumTestsWithoutPOM.csproj", "{87FB0BD3-EC58-43B9-B633-4A9C46173B63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uzduotis18.1Atvejis", "Užduotis18SeleniumTestai\uzduotis18.1Atvejis.csproj", "{EBEB6DB9-FD5B-4CEA-9BF2-C33F79577AD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{87FB0BD3-EC58-43B9-B633-4A9C46173B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87FB0BD3-EC58-43B9-B633-4A9C46173B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87FB0BD3-EC58-43B9-B633-4A9C46173B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEB6DB9-FD5B-4CEA-9BF2-C33F79577AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEB6DB9-FD5B-4CEA-9BF2-C33F79577AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEB6DB9-FD5B-4CEA-9BF2-C33F79577AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEB6DB9-FD5B-4CEA-9BF2-C33F79577AD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
