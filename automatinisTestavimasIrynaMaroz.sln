@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorUnitTests", "Calc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namuUzduotisUnitTestai", "namuUzduotisUnitTestai\namuUzduotisUnitTestai.csproj", "{6963DA48-0A3F-4AB5-84F0-52E7498BA6BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seleniumTestsWithoutPOM", "seleniumTestsWithoutPOM\seleniumTestsWithoutPOM.csproj", "{87FB0BD3-EC58-43B9-B633-4A9C46173B63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6963DA48-0A3F-4AB5-84F0-52E7498BA6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6963DA48-0A3F-4AB5-84F0-52E7498BA6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6963DA48-0A3F-4AB5-84F0-52E7498BA6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FB0BD3-EC58-43B9-B633-4A9C46173B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FB0BD3-EC58-43B9-B633-4A9C46173B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FB0BD3-EC58-43B9-B633-4A9C46173B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FB0BD3-EC58-43B9-B633-4A9C46173B63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
